@@ -2,7 +2,7 @@
 
 Example showing how to connect Buck with the C/C++ extension for VS Code.
 
-This project depends on the Eigen Buckaroo package to demonstrate code-completion for packages.
+This project depends on the Eigen [Buckaroo](https://buckaroo.pm) package to demonstrate code-completion for packages.
 
 ## Usage
 
