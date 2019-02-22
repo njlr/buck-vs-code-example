@@ -29,6 +29,8 @@ cat buck-out/gen/__app#compilation-database/compile_commands.json
 
 Next, we have to tell VS Code where to find it.
 
+`.vscode/c_cpp_properties.json`
+
 ```json
 {
   "configurations": [
